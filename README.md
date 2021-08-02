@@ -1,6 +1,8 @@
 ### Hi there, welcome to my Github Page 👋
 
-I am a mix of a data analyst, finance nerd and automation engineer. I like to keep things simple, smart and beautiful.
+I am a mix of a data analyst, finance nerd and automation engineer. I like to keep things simple, smart and beautiful, and for business that can be the difference between winning and losing.
+
+As an experienced data analyst, I am comfortable working with technologies in the space - Power BI, SQL, Python, Excel, APIs, any nocode tools.
 
 Here's a few posts I wrote for [dev.to](https://dev.to)
 
